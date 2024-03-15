@@ -1,18 +1,13 @@
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HaticeBeyaz.HaticeBeyaz&"  />
-</div>
-
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hey There &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h1>
 
 ###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-<h4>
+
+<h3>
 <p align="left">I'm Hatice,<br>- 🔭 I am improving myself in the Front-end field.<br>- 📚 I'm learning Html,Css, Javascript etc.<br>- ⚡ I do design and drawing in my free time.</p>
-</h4>
+</h3>
 
 
 
